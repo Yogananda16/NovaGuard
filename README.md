@@ -22,10 +22,10 @@ NovaGuard analyzes 5 real-time sensor readings and predicts failure probability 
 ## 🖥️ Dashboard Preview
 
 ### Main Dashboard
-![Main Dashboard](c:\Users\nanda\OneDrive\Pictures\Screenshots\Screenshot 2026-04-04 012206.png)
+![Main Dashboard](D:\NovaGuard\images\1.png)
 
 ### Real-Time Health Analysis
-![Health Analysis](c:\Users\nanda\OneDrive\Pictures\Screenshots\Screenshot 2026-04-04 012218.png)
+![Health Analysis](D:\NovaGuard\images\2.png)
 
 ---
 
